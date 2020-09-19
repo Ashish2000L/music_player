@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Online Songs"
+        android:icon="@drawable/online_music"
+        android:id="@+id/onlinemusic"
+        />
+
+    <item
+        android:title="Playlist"
+        android:icon="@drawable/playlist"
+        android:id="@+id/playlist"
+        />
+    <item
+        android:title="Saved Songs"
+        android:icon="@drawable/saved_songs"
+        android:id="@+id/savedmusic"
+        />
+
+</menu>
